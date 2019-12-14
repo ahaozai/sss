@@ -1,0 +1,128 @@
+.header.header1{
+    background: #ff923a;
+}
+.container {
+    min-width: 1100px;
+}
+.header1{
+    position: relative;
+}
+.logo_header{
+    height: 340px;
+}
+.header{
+    transition: all 500ms ease;
+    width: 100%;
+}
+.head_warp {
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.w_logo {
+    position: absolute;
+    left: 0;
+    height: 40px;
+}
+fieldset, img {
+    border: none;
+}
+.login_panel {
+    width: 456px;
+    margin: -190px auto 50px auto;
+    box-shadow: 0 0 50px #f2b58a;
+    border-radius: 6px;
+    background: #fff;
+    position: relative;
+    z-index: 99;
+}
+.login_logo {
+    padding: 30px 0 16px 0;
+    text-align: center;
+    overflow: hidden;
+}
+fieldset, img {
+    border: none;
+}
+.login_panel h1 {
+    color: #ef8b43;
+    font-size: 26px;
+    font-weight: normal;
+    text-align: center;
+}
+.login_from {
+    padding: 30px 66px;
+}
+
+.login_from .login_box {
+    border: 1px solid #ddd;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    padding-left: 5px;
+
+}
+.logo_box{
+    border: 1px #ddd solid;
+
+    height: 48px;
+    line-height: 48px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    padding-left: 4px;
+}
+.input_text {
+    height: 30px;
+    line-height: 30px;
+    margin: 9px 0;
+    border: none;
+    background: none;
+    outline: none;
+    padding-left: 20px;
+}
+
+.login_from{
+    height: 270px;
+}
+.login_from .login_box input {
+    height: 30px;
+    line-height: 30px;
+    margin: 9px 0;
+    border: none;
+    background: none;
+    outline: none;
+
+}
+.pwd_colimn{
+.login_from .pwd_right
+    float: right;
+    margin-left: 240px;
+}
+.forget{
+    text-decoration: none;
+    color: #999999;
+    padding: 5px 0 5px 4px;
+}
+.pwd_colimn a:hover{
+    color: #ef8b43;
+}
+.to_creat{
+    position: relative;
+    top: 30px   ;
+    text-decoration: none;
+    float: right;
+    color: #fc873a;
+    font-size: 16px;
+}
+.server{
+    text-align: center;
+}
+.user-select h6{
+    display: inline-block;
+    text-align: center;
+    font-weight: normal;
+    color: #333;
+    padding-top: 18px;
+}

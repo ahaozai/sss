@@ -1,0 +1,25 @@
+.header1{
+    background: #ff923a;
+}
+.head_wrap{
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.w_logo{
+    position: absolute;
+    left: 0;
+    height: 40px;
+}
+.w_logo img{    border: none;}
+.w_nav{
+    display: block;
+    width: 100%;
+    height: 40px;
+    text-align: right;
+}
+.w_nav a{
+    text-decoration: none;
+}
+

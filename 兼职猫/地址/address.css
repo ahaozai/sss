@@ -1,0 +1,188 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    display: block;
+    margin: 8px;
+}
+.header{
+    height: 35px;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #e3e3e3;
+
+}
+.main a{
+    color: #6c6c6c;
+    font-size: 13px;
+}
+.city{
+    line-height: 35px;
+    float: left;
+    margin-left: 20px;
+}
+.city .cityone{
+    color: #f3573f;
+    font-size: 15px;
+}
+.city a{
+    color: #6c6c6c;
+    font-size: 13px;
+    text-decoration: none;
+}
+.channer{
+    line-height: 35px;
+    float: right;
+    margin-right: 15px;
+}
+.channer a{
+    margin: 0 10px;
+    position: relative;
+    text-decoration: none;
+}
+.w_main{
+    width: 1000px;
+    margin: auto;
+}
+.logo_box{
+    padding: 20px 20px;
+}
+.logoleft{
+    float: left;
+}
+.logoleft img{
+    border: none;
+}
+.title{
+    margin-top: 12px;
+    margin-left: 20px;
+    color: #fd8100;
+    font-size: 20px;
+    font-family: 'Microsoft YaHei';
+}
+.content_box{
+    margin-top: 6px;
+    padding: 0 15px 40px;
+    border-bottom: 2px solid #fd8100;
+}
+.cititwo{
+    border: 1px solid #dddddd;
+    border-bottom: 0 solid;
+}
+.cititwo{
+    border: 1px solid #dddddd;
+    border-bottom: 0 solid
+
+}
+.tt1{
+    margin-right: 10px;
+}
+
+.cititwo .li1 select{
+    margin-right: 5px;
+}
+.cititwo .li1{
+    list-style: none;
+}
+.cititwo .li2{
+    list-style: none;
+}
+.cititwo .li3{
+    list-style: none;
+}
+.li1 .confirm{padding: 3px 10px;
+    background-color: #e18d0a;
+    color: #fff;
+    border: 0 solid;
+    font-size: 13px;
+    margin-left: 5px;
+    cursor: pointer;}
+.cititwo>li{
+    padding: 20px 20px;
+    border-bottom: 1px solid #dddddd;
+}
+.content_box{
+    width: 1000px;
+    height: auto;
+}
+.li2{
+    padding: 20px 20px;
+    border-bottom: 1px solid #dddddd;
+}
+.li2 a{
+    color: #e18d0a;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: none;
+}
+
+
+.city_table {
+    padding-bottom: 50px;
+}
+
+.city_table li {
+    padding: 15px 20px 15px 65px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    line-height: 26px;
+}
+.li3{
+    list-style: none;
+    color: #e18d0a;
+}
+.city_table span {
+    border: 1px solid #dddddd;
+    padding: 6px 10px;
+    margin-left: -35px;
+    font-weight: bold;
+    color: #6a6a6a;
+    background-color: #f1eff1;
+}
+
+.city_table li ol{
+    text-decoration: none;
+}
+.li3 a{
+    text-decoration: none;
+}
+.city_table a {
+    margin-left: 20px;
+    color: #e18d0a;
+}
+.w_main {
+    width: 1000px;
+    margin: auto;
+}
+/*  footer  */
+.foot{ text-align:left; padding:0 0 40px 0; color:#727272; font-size: 12px;}
+.channel a{ color:#727272; padding:0 24px; line-height:40px;}
+.channel a.qq{ position:relative; display:inline-block; width:10px; padding:0 65px 0 15px;}
+.channel a.qq img{ position:absolute; top:-15px;}
+
+
+.red{ color: #f00;}
+.m-setpass{ padding: 15px; padding-left: 120px; font-family: "微软雅黑"; line-height: 34px;}
+.m-setpass .tit{ font-size: 18px;  color:#333333; margin-bottom: 25px;}
+.m-setpass .tit .ye{ padding-left:30px; color:#ff3600;}
+.m-setpass  label{ font-size: 14px; font-family: "微软雅黑"; color: #666666; margin-bottom: 15px;}
+.m-setpass  input{ font-size: 14px; font-family: "微软雅黑"; color: #333; margin-bottom: 15px; padding:0 10px; width: 180px; line-height:16px;}
+.m-setpass .btn{ display: block;  width: 120px; height: 36px; border-radius: 3px; background: #f39800;  line-height: 36px;  text-align: center; color: #fff; font-size: 18px;  }
+.m-setpass .btn:hover{  background: #db8900;  text-decoration: none; }
+
+.m-zhifuts{
+    width: 600px; margin: 100px auto; text-align: center;
+}
+.m-zhifuts .tit{
+    font-size: 25px; line-height: 50px;  color: #666; }
+.m-zhifuts .ms{ font-size: 16px; line-height: 32px;  color: #666;
+}
+.m-zhifuts span.u-fcf04c1c{ color: #f04c1c;}
+.m-zhifuts .btn{ display: block; margin: 30px auto;  width: 195px; height: 40px; line-height: 40px; background: #f39800; color: #fff; font-size: 18px; }
+.m-zhifuts .btn:hover{ background: #cd8102; text-underline: none; }
+.m-zhifuts .btn2{display: block; margin: 30px auto;  width: 195px; height: 40px; line-height: 40px; background: #fff; border:1px solid #f39800; color: #f39800; font-size: 18px; box-sizing: border-box;}
+
+.foot a{
+    text-decoration: none;
+}
